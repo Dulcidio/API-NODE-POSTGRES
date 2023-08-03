@@ -1,2 +1,2 @@
 # API-NODE-POSTGRES
-API de como demonstração de um exemplo de CRUD com NODE.JS e POSTRGRESQL
+Aplicação de exemplo de um crud em node.js e banco de dados POSTGRESQL Neste repositorio esta uma API demonstrando como realizar o processo de cadastro, alterar, deletar e selecionar usando node.js + postgresql.
